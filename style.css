@@ -1,0 +1,200 @@
+@charset "utf-8";
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	position: absolute;
+}
+
+.arrow {
+  left: 1558px;
+  top: 1301px;
+}
+
+.secret {
+  left: 476px;
+  top: 321px;
+}
+
+.choice1 {
+  left: 95.844px;
+  top: 159.451px;
+}
+
+.option1-1 {
+  left: 1272px;
+  top: 779.451px;
+}
+
+.option1-2 {
+  left: 95px;
+  top: 775.451px;
+}
+
+.option1s {
+  left: 733px;
+  top: 1120px;
+	opacity: 0;
+}
+
+.option1s:hover {
+	opacity: 1;
+}
+
+.secret1 {
+  left: 191px;
+  top: 243.451px;
+}
+
+.choice2 {
+  left: 71.843px;
+  top: 195.451px;
+}
+
+.option2-1 {
+  left: 59px;
+  top: 795.451px;
+}
+
+.option2-2 {
+  left: 1210px;
+  top: 779.451px;
+}
+
+.option2s {
+  left: 609px;
+  top: 1091.451px;
+	opacity: 0;
+}
+
+.option2s:hover {
+	opacity: 1;
+}
+
+.choice3 {
+  left: 69px;
+  top: 139.451px;
+}
+
+.option3-1 {
+  left: 49px;
+  top: 735.451px;
+}
+
+.option3-2 {
+  left: 1453px;
+  top: 747.5px;
+}
+
+.option3s {
+  left: 721px;
+  top: 1106px;
+	opacity: 0;
+}
+
+.option3s:hover {
+	opacity: 1;
+}
+
+.choice4 {
+  left: 168px;
+  top: 179.451px;
+}
+
+.option4 {
+  left: 875px;
+  top: 823.5px;
+}
+
+.option4s {
+  left: 554px;
+  top: 1171.451px;
+	opacity: 0;
+}
+
+.option4s:hover {
+	opacity: 1;
+}
+
+.ending1 {
+  left: 75px;
+  top: 191.451px;
+}
+
+.lose {
+  left: 604.843px;
+  top: 919.451px;
+}
+
+.secret2 {
+  left: 140px;
+  top: 201.451px;
+}
+
+.secret3 {
+  left: 176.844px;
+  top: 261.451px;
+}
+
+.secret4 {
+  left: 127px;
+  top: 153.451px;
+}
+
+.secret4-1 {
+  left: 775.625px;
+  top: 859.451px;
+}
+
+.secret4s {
+  left: 248px;
+  top: 1153.451px;
+	opacity: 0;
+}
+
+.secret4s:hover {
+	opacity: 1;
+}
+
+.ending2 {
+  left: 26px;
+  top: 203.451px;
+}
+
+.win {
+  left: 613.843px;
+  top: 864px;
+}
+
+.secret5 {
+  left: 105px;
+  top: 253.451px;
+}
+
+.ending3 {
+  left: 42px;
+  top: 255.451px;
+}
+
+.lose2 {
+  left: 624.843px;
+  top: 857.451px;
+}
+
+.secret6 {
+  left: 123.844px;
+  top: 211.451px;
+}
+
+.ending4 {
+  left: 30px;
+  top: 227.451px;
+}
+
+.win2 {
+  left: 91.844px;
+  top: 1049.451px;
+}
